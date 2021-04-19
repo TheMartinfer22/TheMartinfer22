@@ -1,16 +1,22 @@
-### Hi there 👋
+### Seja muito bem-vindo(a) ao meu perfil 😊
+####Sou um programador iniciante na linguagem Java, sempre estou buscando o conhecimento em determinadas situações, fique a vontade em me ajudar a aprender novas funções ou até mesmo evitar código sujo.
 
-<!--
-**TheMartinfer22/TheMartinfer22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+######Não coloquem o código pronto em meus projetos, apenas me coloquem uma sugestão do que posso utilizar, para assim eu poder aprender a gerar o resultado final.
 
-Here are some ideas to get you started:
+###👉 `Focos`
+Meu foco para esse ano de 2021 é criar sistemas completos no front-end e back-end em Java, caso eu conseguir obter o resultado esperado quero aprender Python e ReactJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###👉 `Faculdade & Cursos`
+Eu estava cursando a faculdade de Análise e Desenvolvimento de Sistemas mas eu estava em busca do conhecimento com o maior foco na área então resolvi estudar com cursos na plataforma da Alura e juntamente com o Youtube.
+
+###👉 `Habilidades & TODO`
+
+####Linguagens
+  - [x] **Java**
+  - [ ] Python
+  - [ ] Javascript
+  - [ ] Kotlin
+####Bancos de Dados
+  - [x] **MariaDB**
+  - [x] **MySQL**
+  - [ ] PostgreSQL
