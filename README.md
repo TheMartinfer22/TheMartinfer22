@@ -3,7 +3,7 @@
 
 ###### Não coloquem o código pronto em meus projetos, apenas me coloquem uma sugestão do que posso utilizar, para assim eu poder aprender a gerar o resultado final.
 
-### 👉 `Focos`
+### 👉 `Foco`
 Meu foco para esse ano de 2021 é criar sistemas completos no front-end e back-end em Java, caso eu conseguir obter o resultado esperado quero aprender Python e ReactJS.
 
 ### 👉 `Faculdade & Cursos`
