@@ -21,10 +21,6 @@ Eu estava cursando a faculdade de Análise e Desenvolvimento de Sistemas mas eu 
   - [x] **MySQL**
   - [ ] PostgreSQL
 
-#### Métodos Ágeis
-  - [ ] Kanban
-  - [ ] Scrum
-
 ## `Coming soon`
 
 ![Alt Text](https://media.tenor.com/images/88a21e1b5e10eefabd3f2c353de1cf3b/tenor.gif)
