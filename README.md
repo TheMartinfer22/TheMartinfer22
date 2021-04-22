@@ -1,5 +1,5 @@
 ### Seja muito bem-vindo(a) ao meu perfil 😊
-#### Sou um programador iniciante na linguagem Java, sempre estou buscando o conhecimento em determinadas situações, fique a vontade em me ajudar a aprender novas funções ou até mesmo evitar código sujo.
+#### Sou um programador iniciante, estou focando na linguagem Java e sempre estou buscando o conhecimento em determinadas situações e novas linguagens, fique a vontade em me ajudar a aprender novas funções ou até mesmo evitar código sujo.
 
 ###### Não coloquem o código pronto em meus projetos, apenas me coloquem uma sugestão do que posso utilizar, para assim eu poder aprender a gerar o resultado final.
 
