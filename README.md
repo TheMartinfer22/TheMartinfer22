@@ -6,7 +6,7 @@
 ### 👉 `Faculdade & Cursos`
 Eu estava cursando a faculdade de Análise e Desenvolvimento de Sistemas mas eu estava em busca do conhecimento com o maior foco na área então resolvi estudar com cursos na plataforma da Alura e juntamente com o Youtube.
 
-### 👉 `Habilidades & TODO
+### 👉 `Habilidades & TODO`
 
 #### Linguagens
   - [x] **Java**
