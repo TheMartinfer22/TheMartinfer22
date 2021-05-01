@@ -6,7 +6,7 @@
 ### 👉 `University & Courses`
 I am at UNISC University - Analysis and software development and attend courses on the Alura platform.
 
-### 👉 `lang.skills & TODO`
+### 👉 `lang.Skills & TODO`
 
 #### Languages.class
   - [x] **Java**
