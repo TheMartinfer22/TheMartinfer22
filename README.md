@@ -8,11 +8,11 @@ I am at UNISC University - Analysis and software development and attend courses 
 
 ### 👉 `lang.skills & TODO`
 
-#### Langs
+#### Languages.class
   - [x] **Java**
   - [x] **Python**
 
-#### TODO 2021
+#### TODO_2021.py
   - [ ] Kotlin
   - [ ] AngularJS
   - [ ] ReactJS
