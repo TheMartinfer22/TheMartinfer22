@@ -8,7 +8,7 @@ I am at UNISC University - Analysis and software development and attend courses 
 
 ### 👉 `lang.skills & TODO`
 
-#### Linguagens
+#### Langs
   - [x] **Java**
   - [x] **Python**
 
