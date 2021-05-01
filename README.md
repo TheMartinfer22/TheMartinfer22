@@ -12,14 +12,9 @@ I am at UNISC University - Analysis and software development and attend courses 
   - [x] **Java**
   - [x] **Python**
 
-#### TODO
-  - [ ] Javascript
+#### TODO 2021
   - [ ] Kotlin
-  - [ ] C
   - [ ] AngularJS
   - [ ] ReactJS
-  - [ ] PHP
-  - [ ] NodeJS
-  - [ ] GoLang
 
 
