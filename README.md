@@ -1,12 +1,12 @@
-### Seja muito bem-vindo(a) ao meu perfil 😊
-#### Sou um programador iniciante, estou focando na linguagem Java e sempre estou buscando o conhecimento em determinadas situações e novas linguagens, fique a vontade em me ajudar a aprender novas funções ou até mesmo evitar código sujo.
+### Welcome to my profile 😊
+#### I am a beginner programmer, I am focusing on the Java language and I am always looking for knowledge in certain situations and new languages.
 
-###### Não coloquem o código pronto em meus projetos, apenas me coloquem uma sugestão do que posso utilizar, para assim eu poder aprender a gerar o resultado final.
+###### Do not put the code ready in my projects, just put me a suggestion of what I can use, so that I can learn to generate the final result.
 
-### 👉 `Faculdade & Cursos`
-Eu estava cursando a faculdade de Análise e Desenvolvimento de Sistemas mas eu estava em busca do conhecimento com o maior foco na área então resolvi estudar com cursos na plataforma da Alura e juntamente com o Youtube.
+### 👉 `University & Courses`
+I am at UNISC University - Analysis and software development and attend courses on the Alura platform.
 
-### 👉 `Habilidades & TODO`
+### 👉 `lang.skills & TODO`
 
 #### Linguagens
   - [x] **Java**
