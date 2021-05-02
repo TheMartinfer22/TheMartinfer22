@@ -11,9 +11,10 @@ I am at UNISC University - Analysis and software development and attend courses 
 #### Languages.class
   - [x] **Java**
   - [x] **Python**
+  - [x] **Kotlin**
 
 #### TODO_2021.py
-  - [ ] Kotlin
+  - [ ] Python
   - [ ] AngularJS
   - [ ] ReactJS
 
