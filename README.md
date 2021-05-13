@@ -11,9 +11,9 @@ I am at UNISC University - Analysis and software development and attend courses 
 #### `List<Languages> lang = new ArrayList<>();`
   - [x] lang.add("**Java**")
   - [x] lang.add("**Kotlin**")
-  - [ ] lang.add("**PHP**")
 
 #### `TODO_2021.py`
+  - [ ] PHP
   - [ ] Python
   - [ ] AngularJS
   - [ ] ReactJS
