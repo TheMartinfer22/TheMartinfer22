@@ -8,7 +8,7 @@ I am at UNISC University - Analysis and software development and attend courses 
 
 ### 👉 `import github.lang.Skills;`
 
-#### `List <Languages> lang = new ArrayList<>();`
+#### `List<Languages> lang = new ArrayList<>();`
   - [x] lang.add("**Java**")
   - [x] lang.add("**Kotlin**")
   - [ ] lang.add("**PHP**")
