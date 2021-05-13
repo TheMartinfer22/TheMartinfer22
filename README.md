@@ -3,10 +3,10 @@
 
 ###### Do not put the code ready in my projects, just put me a suggestion of what I can use, so that I can learn to generate the final result.
 
-### 👉 `import github.lang.UniversityAndCourses;
+### 👉 `import github.lang.UniversityAndCourses;`
 I am at UNISC University - Analysis and software development and attend courses on the Alura platform.
 
-### 👉 `import github.lang.Skills;
+### 👉 `import github.lang.Skills;`
 
 #### Languages.class
   - [x] **Java**
