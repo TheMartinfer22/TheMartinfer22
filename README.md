@@ -13,7 +13,6 @@ I am at UNISC University - Analysis and software development and attend courses 
   - [x] lang.add("**Kotlin**")
 
 #### `TODO_2021.py`
-  - [ ] PHP
   - [ ] Python
-  - [ ] AngularJS
+  - [ ] Vue.JS
   - [ ] ReactJS
