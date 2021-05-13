@@ -8,10 +8,10 @@ I am at UNISC University - Analysis and software development and attend courses 
 
 ### 👉 `import github.lang.Skills;`
 
-#### Languages.class
-  - [x] **Java**
-  - [x] **Kotlin**
-  - [ ] **PHP**
+#### List<Languages> lang = new ArrayList<>();
+  - [x] lang.add("**Java**")
+  - [x] lang.add("**Kotlin**")
+  - [ ] lang.add("**PHP**")
 
 #### TODO_2021.py
   - [ ] Python
