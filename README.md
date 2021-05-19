@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HuddoutingTEAM**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Spring Framework**
 
 - 📫 How to reach me **admin@huddouting.team**
 
