@@ -17,6 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMartinfer22&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/TheMartinfer22/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheMartinfer22" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMartinfer22&layout=compact&theme=radical" />
 </a>
 
