@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java & Spring**
 
+- 📌 My current project is **hFix**
+
 - 📫 How to reach me **admin@huddouting.team**
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
