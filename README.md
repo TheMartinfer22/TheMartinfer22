@@ -11,7 +11,7 @@
 
 -   📫 How to reach me **contato@martindev.tech**
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kkfig8dlwchpesdycbx6cqt2i&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=compact)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center"> <img src="assets/mytechs.gif" alt="themartinfer22"/> </p>
 
