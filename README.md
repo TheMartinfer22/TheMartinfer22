@@ -10,12 +10,13 @@
 -   📌 My current project is **hFix** but also open to collaborate in new projects.
 
 -   📫 How to reach me **contato@martindev.tech**
--
-<p align="center">
+
+<div style="text-align: center;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-</p>
+</div>
+
 <a href="https://github.com/TheMartinfer22/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMartinfer22&show_icons=true&hide_title=true&hide=prs&theme=radical" />
 </a>
