@@ -11,7 +11,7 @@
 
 -   📫 How to reach me **contato@martindev.tech**
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
