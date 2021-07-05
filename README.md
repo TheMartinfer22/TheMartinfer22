@@ -1,6 +1,3 @@
-
-<link rel="stylesheet" href="css/main.css">
-
 <p align="center"> <img src="assets/intro2.gif" alt="themartinfer22"/> </p>
 <h3 align="center">A beginner programmer, focusing on the Java language and I am always looking for knowledge in certain situations and new languages.</h3>
 
