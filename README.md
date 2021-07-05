@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="css/main.css">
+
 <p align="center"> <img src="assets/intro2.gif" alt="themartinfer22"/> </p>
 <h3 align="center">A beginner programmer, focusing on the Java language and I am always looking for knowledge in certain situations and new languages.</h3>
 
@@ -11,7 +14,7 @@
 
 -   📫 How to reach me **contato@martindev.tech**
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div class="github_spotify">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
