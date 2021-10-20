@@ -13,8 +13,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&redirect=true)
 
-<p align="center"> <img src="assets/mytechs.gif" alt="themartinfer22"/> </p>
-
 <a href="https://github.com/TheMartinfer22/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMartinfer22&show_icons=true&hide_title=true&hide=prs&theme=radical" />
 </a>
