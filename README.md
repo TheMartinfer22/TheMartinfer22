@@ -7,7 +7,7 @@
 
 -   🌱 I’m currently learning **Java & Spring**
 
--   📌 My current project is **hFix** but also open to collaborate in new projects.
+-   📌 My current project is **Huddout** but also open to collaborate in new projects.
 
 -   📫 How to reach me **contato@martindev.tech**
 
