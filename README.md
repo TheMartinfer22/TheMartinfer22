@@ -1,5 +1,5 @@
 <p align="center"> <img src="assets/intro.gif" alt="themartinfer22"/> </p>
-<h3 align="center">A beginner programmer, focusing on the Java language and I am always looking for knowledge in certain situations and new languages.</h3>
+<h3 align="center">Hello, i focusing on the Java with Spring and Python.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themartinfer22&label=Profile%20views&color=0e75b6&style=flat" alt="themartinfer22" /> </p>
 
