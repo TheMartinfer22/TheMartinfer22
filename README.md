@@ -1,6 +1,6 @@
-Olá meu nome é Martin Hartfelder, sou desenvolvedor de software focado na linguagem Java.
+#### Olá meu nome é Martin Hartfelder, sou desenvolvedor de software focado na linguagem Java.
 
-##### Principais projetos que atuo:
+##### Principais grandes projetos que atuo
 - <a href="https://github.com/HuddoutingTeam">@HuddoutingTeam</a> Um servidor para Minecraft que possui a maior parte dos sistemas únicos, desenvolvidos por mim.
 - <a href="https://github.com/NanoSyncServices">@NanoSyncServices</a> Uma empresa que atua no desenvolvimento de software em geral, mas o seu foco é para jogos.
 
