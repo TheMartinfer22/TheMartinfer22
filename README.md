@@ -22,7 +22,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&redirect=true)
 
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=themartinfer22&label=Profile%20views&color=0e75b6&style=flat" alt="themartinfer22"/>
 </a>
