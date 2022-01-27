@@ -2,20 +2,18 @@
 <h3 align="center">Hello, i focusing on the Java with Spring and Python.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themartinfer22&label=Profile%20views&color=0e75b6&style=flat" alt="themartinfer22" /> </p>
+<center>
 
--   🔭 I’m currently open to work.
+<p>README in work</p>
+<p>README in work</p>
+<p>README in work</p>
+<p>README in work</p>
 
--   🌱 I’m currently learning **Java & Spring**
-
--   📌 My current project is **Huddout** but also open to collaborate in new projects.
-
--   📫 How to reach me **contato@martindev.tech**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&redirect=true)
 
-<a href="https://github.com/TheMartinfer22/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheMartinfer22&show_icons=true&hide_title=true&hide=prs&theme=radical" />
-</a>
+
 <a href="https://github.com/TheMartinfer22/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMartinfer22&layout=compact&theme=radical" />
 </a>
+</center>
