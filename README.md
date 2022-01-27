@@ -1,33 +1,10 @@
-<div style="display: flex; align-items: center;">
-<a href="https://www.instagram.com/martiinfer22/"> 
+### Olá 👋, meu nome é Martin Hartfelder, sou desenvolvedor de software focado na linguagem Java.
 
-![Instagram](https://img.shields.io/badge/martiinfer22-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+#### 💎 Principais grandes projetos que atuo.
+- <a href="https://github.com/HuddoutingTeam">@Huddout</a> 🔧 Servidor para Minecraft que possui a maior parte dos sistemas únicos, desenvolvidos por mim.
+- <a href="https://github.com/NanoSyncServices">@NanoSync</a> 🔧 Empresa que atua no desenvolvimento de software em geral, mas o seu foco é para jogos.
 
-<a style="margin: 10px" href="https://www.instagram.com/martiinfer22/"> 
+#### 📚 Tecnologias que eu utilizo.
+<code>Java, Spring, Typescript, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
 
-![Discord](https://img.shields.io/badge/NanoSync-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
-
-<a href="https://www.instagram.com/martiinfer22/"> 
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-</a></div>
-
-
-
-<h2>test</h3>
-<p>test</p>
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=kkfig8dlwchpesdycbx6cqt2i&redirect=true)
-
-
-<img src="https://komarev.com/ghpvc/?username=themartinfer22&label=Profile%20views&color=0e75b6&style=flat" alt="themartinfer22"/>
-</a>
-
-
-<a href="https://github.com/TheMartinfer22/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMartinfer22&layout=compact&theme=radical" />
-</a>
+<a href="https://www.instagram.com/martiinfer22/" rel="Instagram">![Instagram](https://img.shields.io/badge/martiinfer22-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="http://google.com.au/" rel="some text">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a> <a href="http://google.com.au/" rel="some text">![Discord](https://img.shields.io/badge/NanoSync-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
