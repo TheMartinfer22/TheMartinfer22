@@ -7,7 +7,7 @@
 #### 📚 Tecnologias que eu utilizo.
 <code>Java, Spring, Typescript, Python, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
 
-#### 📚 o que eu desenvolvo todos os dias?
+#### 🤔 o que eu desenvolvo todos os dias?
 <p>Eu desenvolvo soluções no geral e para isso faço uso principalmente da linguagem Java, na qual é a linguagem que tenho bastante foco, nela diariamente realizo mais projetos para a biblioteca Bukkit e Forge(Minecraft), aplicações para solucionar problemas(automatizações principalmente), API's para utilização em outros projetos e sites utilizando Spring.</p>
 <p>Já com outras tecnologias eu crio aplicações para clientes da <a href="https://github.com/NanoSyncServices">@NanoSync</a>, onde o que é mais requisitado é principalmente HTML, CSS, PHP e demais citadas no tópico de <code>Tecnologias que eu utilizo.</code></p>
 
