@@ -2,7 +2,7 @@
 
 #### 💎 Principais grandes projetos que atuo.
 - <a href="https://github.com/NanoSyncServices">@NanoSync</a> 🔧 Empresa que atua no desenvolvimento de software em geral, mas o seu foco é para jogos.
-- <a href="https://foursys.com.br/">@FourSys</a> 🔧 Empresa de desenolvimento de software em que trabalho.
+- <a href="https://foursys.com.br/">@FourSys</a> 🔧 Empresa de desenolvimento de software em que atuo no projeto do Bradesco como FullStack.
 
 #### 📚 Tecnologias que eu utilizo.
 <code>Java, Spring, Typescript, Python, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
