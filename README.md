@@ -5,7 +5,7 @@
 - <a href="https://foursys.com.br/">@FourSys</a> 🔧 Empresa de desenolvimento de software em que atuo no projeto do Bradesco como FullStack.
 
 #### 📚 Tecnologias que eu utilizo.
-<code>Java, Spring, Typescript, Python, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
+<code>Java, Spring, Angular, Typescript, Python, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
 
 #### 🤔 o que eu desenvolvo todos os dias?
 <p>Eu desenvolvo soluções no geral e para isso faço uso principalmente da linguagem Java, na qual é a linguagem que tenho bastante foco, nela diariamente realizo mais projetos para a biblioteca Bukkit e Forge(Minecraft), aplicações para solucionar problemas(automatizações principalmente), API's para utilização em outros projetos e sites utilizando Spring.</p>
