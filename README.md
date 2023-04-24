@@ -2,7 +2,9 @@
 
 💎 Principais Projetos
 🔧 <a href="https://github.com/NanoSyncServices">@NanoSync</a>: empresa de desenvolvimento de software em geral, com destaque para jogos.
+<br>
 🔧 <a href="https://foursys.com.br/">@FourSys</a>: empresa de desenvolvimento de software, onde atuo como Arquiteto de Software no projeto do Bradesco.
+<br>
 📚 Tecnologias Utilizadas
 <code>Java, Spring, Angular, Typescript, Python, NodeJS, ReactJS, PHP, HTML, CSS, Docker, Redis, PostgreSQL</code>
 
