@@ -25,5 +25,5 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 ## 📊 Estatísticas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)](https://github.com/seu_usuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMartinfer22&layout=compact)](https://github.com/TheMartinfer22)
 
