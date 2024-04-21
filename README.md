@@ -1,6 +1,29 @@
-### Olá 👋, meu nome é Martin Hartfelder, sou desenvolvedor de software Fullstack.
+# Bem-vindo ao meu perfil! 👋
 
-#### 📚 Tecnologias que eu utilizo.
-<code>Java, Spring, Angular, Typescript, Python, GoLang, NodeJS, HTML, CSS, Docker, Redis, PostgreSQL, Docker</code>
+Olá, meu nome é Martin Hartfelder e sou desenvolvedor de software Fullstack.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themartinfer22/)
+## 🚀 Tecnologias
+
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+- Java
+- Spring
+- Angular
+- Typescript
+- Python
+- GoLang
+- NodeJS
+- HTML
+- CSS
+- Docker
+- Redis
+- PostgreSQL
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/themartinfer22/)
+
+## 📊 Estatísticas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuario&layout=compact)](https://github.com/seu_usuario)
+
