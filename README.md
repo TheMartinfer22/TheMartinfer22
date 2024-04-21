@@ -4,7 +4,7 @@ Olá, meu nome é Martin Hartfelder e sou desenvolvedor de software Fullstack.
 
 ## 🚀 Tecnologias
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+Aqui estão algumas das tecnologias com as quais trabalho, incluindo frameworks e bibliotecas relacionadas:
 
 ### Java
 - Spring Framework (Spring Boot, Spring MVC, Spring Data)
