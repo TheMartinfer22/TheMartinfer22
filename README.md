@@ -6,18 +6,41 @@ Olá, meu nome é Martin Hartfelder e sou desenvolvedor de software Fullstack.
 
 Aqui estão algumas das tecnologias com as quais trabalho:
 
-- Java
-- Spring
-- Angular
-- Typescript
-- Python
-- GoLang
-- NodeJS
-- HTML
-- CSS
-- Docker
+### Java
+- Spring Framework (Spring Boot, Spring MVC, Spring Data)
+- Hibernate
+- Apache Maven
+- Lombok
+- JUnit
+- Java EE
+
+### Angular
+- TypeScript
+- RxJS
+- Angular Material
+- NgRx
+- PrimeNG
+
+### Python
+- Django
+- Flask
+
+### GoLang
+- Gin
+
+### Node.js
+- Express.js
+
+### CSS
+- Tailwind CSS
+
+### Docker
+- Docker Compose
+
+### Banco de Dados
 - Redis
 - PostgreSQL
+- MariaDB
 
 ## 🔗 Links
 
